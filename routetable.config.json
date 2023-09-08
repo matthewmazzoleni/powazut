@@ -1,0 +1,104 @@
+[
+    {
+        "AddressPrefix": "0.0.0.0/0",
+        "Name": "DefaultGateway",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "192.168.1.0/24",
+        "Name": "NET-BG-01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.0/27",
+        "Name": "VN-APPSERVICES-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.5.0/24",
+        "Name": "VN-DB-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.4.0/24",
+        "Name": "VN-DMZ-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.0.0/24",
+        "Name": "VN-PRIMARY-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.2.0/24",
+        "Name": "VN-SQL2008R2-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.1.0/24",
+        "Name": "VN-SQL2017-SUB01",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.64/27",
+        "Name": "VN-APPSERVICES-SUB03",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.96/27",
+        "Name": "VN-APPSERVICES-SUB04",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.128/27",
+        "Name": "VN-APPSERVICES-SUB05",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.160/27",
+        "Name": "VN-APPSERVICES-SUB06",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.192/27",
+        "Name": "VN-APPSERVICES-SUB07",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.3.224/27",
+        "Name": "VN-APPSERVICES-SUB08",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.6.0/27",
+        "Name": "VN-APPSERVICES-SUB09",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.5.8/29",
+        "Name": "VN-DB-SUB02",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    },
+    {
+        "AddressPrefix": "10.0.100.0/27",
+        "Name": "VN-SQL-LEGACY",
+        "NextHopType": "VirtualAppliance",
+        "NextHopIpAddress": "10.255.252.4"
+    }
+]
