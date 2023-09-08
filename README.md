@@ -1,0 +1,2 @@
+# powazut
+Azure Powershell Utilities
